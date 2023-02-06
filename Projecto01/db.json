@@ -1,1 +1,29 @@
-{"users":{"id":"f647692f-8635-44b8-b88e-b069acf50986","name":"Anderson Francisco","email":"andersonfranciscoig@gmail.com"}}
+{
+  "users": [
+    {
+      "id": "1a1c968e-d7f0-485b-bd62-f225f92d857a",
+      "name": "Andersonk Francisco",
+      "email": "andersonfranciscoig@gmail.com"
+    },
+    {
+      "id": "e436fea2-d0c5-4eba-8a1f-ff19f10435ba",
+      "name": "Andersonk Francisco",
+      "email": "andersonfranciscoig@gmail.com"
+    },
+    {
+      "id": "3de0d70d-07b4-4529-91c2-ef68b5c76642",
+      "name": "Andersonk Francisco",
+      "email": "andersonfranciscoig@gmail.com"
+    },
+    {
+      "id": "c073786b-4a50-4513-8a42-919d28e3f4f0",
+      "name": "Andersonk Francisco",
+      "email": "andersonfranciscoig@gmail.com"
+    },
+    {
+      "id": "eef2f670-a72d-498c-850c-65883aef3ae6",
+      "name": "Andersonk Francisco",
+      "email": "andersonfranciscoig@gmail.com"
+    }
+  ]
+}
